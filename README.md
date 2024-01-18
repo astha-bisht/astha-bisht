@@ -1,9 +1,8 @@
 # 💫 About Me:
-- I am ASTHA,
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Infosys.
-- 📫 You can reach me on https://www.linkedin.com/in/astha-bisht/
+-  I am ASTHA,
+-  I’m interested in Web Development
+-  I’m currently learning ReactJS
+-  You can reach me on https://www.linkedin.com/in/astha-bisht/
 
 
 ## 🌐 Socials:
